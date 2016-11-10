@@ -1,0 +1,5 @@
+c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\bin\Debug\ServerMultipleClientsDemo.exe.config
+c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\bin\Debug\ServerMultipleClientsDemo.exe
+c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\bin\Debug\ServerMultipleClientsDemo.pdb
+c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\obj\Debug\ServerMultipleClientsDemo.exe
+c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\obj\Debug\ServerMultipleClientsDemo.pdb
