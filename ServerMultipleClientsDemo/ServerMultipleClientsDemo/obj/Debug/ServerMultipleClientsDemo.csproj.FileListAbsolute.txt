@@ -3,3 +3,5 @@ c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\Se
 c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\bin\Debug\ServerMultipleClientsDemo.pdb
 c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\obj\Debug\ServerMultipleClientsDemo.exe
 c:\users\bogdan\documents\visual studio 15\Projects\ServerMultipleClientsDemo\ServerMultipleClientsDemo\obj\Debug\ServerMultipleClientsDemo.pdb
+C:\Users\bogdan\Source\Repos\SPIDER-P2P-Simulator\ServerMultipleClientsDemo\ServerMultipleClientsDemo\bin\Debug\ServerMultipleClientsDemo.exe.config
+C:\Users\bogdan\Source\Repos\SPIDER-P2P-Simulator\ServerMultipleClientsDemo\ServerMultipleClientsDemo\obj\Debug\ServerMultipleClientsDemo.pdb

@@ -26,10 +26,6 @@ namespace ServerMultipleClientsDemo
             SpiderOverlay spiderOverlay = new SpiderOverlay(10, 100);
             spiderOverlay.CreateOverlay();
 
-            
-            
-            
-
             Task.Run(() =>
             {
                 Task.Delay(TimeSpan.FromSeconds(5));
